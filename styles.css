@@ -1,0 +1,39 @@
+﻿.CV {
+	font-family: Trebuchet MS, sans serif;
+}
+
+.NameAndCohort {
+	display:inline-block;
+	width:90%;
+	vertical-align:top;
+}
+
+.ProfilePhoto {
+	display:inline-block;
+	width:10%;
+	margin-left: -10px;
+}
+
+.ProfilePhoto > img {
+	width:100%;
+}
+
+.Description > h2{
+	margin-bottom:0px;
+}
+
+.Description > p{
+	margin-top:5px;
+}
+
+.Hobbies > h2{
+	margin-bottom:0px;
+}
+
+.Hobbies > p{
+	margin-top:5px;
+}
+
+table, th, td {
+	border: 1px solid black
+}
